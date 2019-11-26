@@ -1,0 +1,3 @@
+D:/workspace/My-4weeks-project/simplekvsvr/cmake-build-debug/CMakeFiles/simplekvsvr.dir
+D:/workspace/My-4weeks-project/simplekvsvr/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/workspace/My-4weeks-project/simplekvsvr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

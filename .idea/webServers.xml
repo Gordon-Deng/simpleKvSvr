@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="90b0b310-fdaa-411e-9f7f-5fbdfbffbf10" name="噔噔噔CVM" url="http://9.134.51.46">
+        <fileTransfer host="9.134.51.46" port="36000" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="36000" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
